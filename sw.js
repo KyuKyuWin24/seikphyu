@@ -1,6 +1,6 @@
 const CACHE_NAME = 'seikphyu-v1';
 const ASSETS = [
-  '/seikphyu-township.html',
+  '/index.html',
   '/manifest.json',
   '/images/photo1.png',
   '/images/photo2.jpg',
