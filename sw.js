@@ -1,14 +1,15 @@
-const CACHE_NAME = 'seikphyu-v1';
+const CACHE_NAME = 'seikphyu-v2';
 const ASSETS = [
-  '/index.html',
-  '/manifest.json',
-  '/images/photo1.png',
-  '/images/photo2.jpg',
-  '/images/photo3.png',
-  '/images/photo4.png',
-  '/images/photo5.png',
-  '/images/photo6.jpg',
-  '/images/photo7.jpg'
+  './',
+  './index.html',
+  './manifest.json',
+  './images/photo1.png',
+  './images/photo2.jpg',
+  './images/photo3.png',
+  './images/photo4.png',
+  './images/photo5.png',
+  './images/photo6.jpg',
+  './images/photo7.jpg'
 ];
 
 self.addEventListener('install', e => {
